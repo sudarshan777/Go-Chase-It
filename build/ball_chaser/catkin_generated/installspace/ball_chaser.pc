@@ -1,0 +1,8 @@
+prefix=/home/workspace/Project2/install
+
+Name: ball_chaser
+Description: Description of ball_chaser
+Version: 0.0.0
+Cflags: -I/home/workspace/Project2/install/include
+Libs: -L/home/workspace/Project2/install/lib 
+Requires: 
